@@ -1,6 +1,6 @@
 # pariwisata
 
-Aplikasi Pariwisata Mobile
+Aplikasi Pariwisata Mobile Andorid
 
 ## Getting Started
 
